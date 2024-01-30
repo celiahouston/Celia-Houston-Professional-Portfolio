@@ -3,10 +3,10 @@ import React from "react";
 const ProjectCard = ({ project }) => {
     return (
         <div className="project-card">
-            <img src={project.img} alt={project.title} />
-            <h3>{project.title} </h3>
-            <p>{project.description}</p>
-            <a href={project.link}>View Project</a>
+            <img src={project.image} alt={project.title} className="card-img-top" />
+            <h3 className="card-title">{project.title}</h3>
+            <p className="card-text">{project.description}</p>
+            <a href={project.link} className="btn btn-primary">View Project</a>
         </div>
     );
 };
