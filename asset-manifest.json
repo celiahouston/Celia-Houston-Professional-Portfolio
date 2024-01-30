@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.81e986ed.css",
-    "main.js": "/static/js/main.1d28115a.js",
-    "static/media/delicious-recipe-generator.png": "/static/media/delicious-recipe-generator.20c4f0c9125f970303c2.png",
-    "static/media/headshot.png": "/static/media/headshot.8d5d5cba5119511489c9.png",
-    "static/media/SEO-Mockup.png": "/static/media/SEO-Mockup.4ae2874a32d78f983649.png",
-    "static/media/bootstrap-portfolio.png": "/static/media/bootstrap-portfolio.7dc2ac7e96f5f7ee63c3.png",
-    "static/media/Prework-Study-Guide.png": "/static/media/Prework-Study-Guide.0c3517396eeee3fb9edd.png",
-    "static/media/professional-readme.png": "/static/media/professional-readme.48fc67085813f6080f90.png",
-    "static/media/weather-app.png": "/static/media/weather-app.8e11cc8a3ed54db36c74.png",
-    "static/media/workday-planner.png": "/static/media/workday-planner.9d57f8c497c017b097e9.png",
-    "static/media/multiple-choice-quiz.png": "/static/media/multiple-choice-quiz.b17bde3eefc24ec8d641.png",
-    "static/media/password-generator.png": "/static/media/password-generator.5ae5dc17b21d94530a65.png",
-    "index.html": "/index.html",
-    "main.81e986ed.css.map": "/static/css/main.81e986ed.css.map",
-    "main.1d28115a.js.map": "/static/js/main.1d28115a.js.map"
+    "main.css": "/Celia-Houston-Professional-Portfolio/static/css/main.81e986ed.css",
+    "main.js": "/Celia-Houston-Professional-Portfolio/static/js/main.9f7cffc9.js",
+    "static/media/delicious-recipe-generator.png": "/Celia-Houston-Professional-Portfolio/static/media/delicious-recipe-generator.20c4f0c9125f970303c2.png",
+    "static/media/headshot.png": "/Celia-Houston-Professional-Portfolio/static/media/headshot.8d5d5cba5119511489c9.png",
+    "static/media/SEO-Mockup.png": "/Celia-Houston-Professional-Portfolio/static/media/SEO-Mockup.4ae2874a32d78f983649.png",
+    "static/media/bootstrap-portfolio.png": "/Celia-Houston-Professional-Portfolio/static/media/bootstrap-portfolio.7dc2ac7e96f5f7ee63c3.png",
+    "static/media/Prework-Study-Guide.png": "/Celia-Houston-Professional-Portfolio/static/media/Prework-Study-Guide.0c3517396eeee3fb9edd.png",
+    "static/media/professional-readme.png": "/Celia-Houston-Professional-Portfolio/static/media/professional-readme.48fc67085813f6080f90.png",
+    "static/media/weather-app.png": "/Celia-Houston-Professional-Portfolio/static/media/weather-app.8e11cc8a3ed54db36c74.png",
+    "static/media/workday-planner.png": "/Celia-Houston-Professional-Portfolio/static/media/workday-planner.9d57f8c497c017b097e9.png",
+    "static/media/multiple-choice-quiz.png": "/Celia-Houston-Professional-Portfolio/static/media/multiple-choice-quiz.b17bde3eefc24ec8d641.png",
+    "static/media/password-generator.png": "/Celia-Houston-Professional-Portfolio/static/media/password-generator.5ae5dc17b21d94530a65.png",
+    "index.html": "/Celia-Houston-Professional-Portfolio/index.html",
+    "main.81e986ed.css.map": "/Celia-Houston-Professional-Portfolio/static/css/main.81e986ed.css.map",
+    "main.9f7cffc9.js.map": "/Celia-Houston-Professional-Portfolio/static/js/main.9f7cffc9.js.map"
   },
   "entrypoints": [
     "static/css/main.81e986ed.css",
-    "static/js/main.1d28115a.js"
+    "static/js/main.9f7cffc9.js"
   ]
 }
