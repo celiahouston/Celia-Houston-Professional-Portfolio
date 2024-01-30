@@ -9,6 +9,7 @@ import ContactPage from './ContactPage';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from './Navbar.js';
+import { Link } from 'react-router-dom';
 
 const projects = [ 
   { 
