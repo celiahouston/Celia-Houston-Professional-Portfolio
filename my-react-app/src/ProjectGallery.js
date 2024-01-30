@@ -1,13 +1,16 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import Project from "./Project";
+import ProjectCard from "./ProjectCard";
 
-function ProjectGallery() {
+const ProjectGallery = ({projects}) => {
     return (
-        <div> 
-            <h1> My Projects </h1>
-            <p> Here are some of the projects I've worked on: </p>
-            </div>
-    )
-}
+        <div className="project-gallery">
+            {projects.map((projects, index) => (
+                <ProjectCard key={index} project={projects}/> 
+            ))}
+    </div>
+    );  
+};
 
 export default ProjectGallery; 
