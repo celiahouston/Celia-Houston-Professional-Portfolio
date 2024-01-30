@@ -27,8 +27,13 @@ Contact: Find out my contact details here.
 - React Router 
 
 ## Deployment
-- Live URL:
-- GitHub Repository: [GitHub Repo URL](https://github.com/celiahouston/Celia-Houston-Professional-Portfolio) 
+- Live URL: https://celiahouston.github.io/Celia-Houston-Professional-Portfolio/ 
+- GitHub Repository: [GitHub Repo URL](https://github.com/celiahouston/Celia-Houston-Professional-Portfolio)
+
+## Screenshots 
+![Project Gallery](./project-gallery-ss.png)
+![Contact Page](./contact-page-ss.png)
+![Home Page](./homepage-ss.png)
 
 ## License 
 Please refer to the LICENSE in the repo.
